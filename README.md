@@ -3,7 +3,6 @@
 
 - 📫 How to reach me **maddurigdeepak@gmail.com**
 
-- ⚡ Fun fact **I am in my Job search**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
