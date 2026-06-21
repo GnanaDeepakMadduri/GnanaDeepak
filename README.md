@@ -2,7 +2,7 @@
 <h3 align="center">I’m a Student with Masters degree in Data Science pursuing PhD in Artificial Intelligence at University of the Cumberlands</h3>
 
 - 📫 How to reach me **maddurigdeepak@gmail.com**
-📚 I'm currently trying to build my profile
+- 📚 I'm currently trying to build my profile
 - ⚡ I am in my Job search
   
 <h3 align="left">Connect with me:</h3>
